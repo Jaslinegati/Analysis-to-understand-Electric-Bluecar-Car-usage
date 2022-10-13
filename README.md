@@ -2,7 +2,7 @@
 This work involves investigating the use of electric cars (blue cars) from the Autolib
 dataset given.
 
-Hypothesis testing is performed to help determine whether the variation between or between
+Hypothesis testing is performed to help determine whether the variation between
 data groups is due to true variation or the result of variation in the sample.
 
 Hypothesis testing is used to infer from a larger population, the result of a hypothesis carried out
